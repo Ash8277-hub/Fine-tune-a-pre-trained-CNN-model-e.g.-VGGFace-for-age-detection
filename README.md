@@ -36,5 +36,4 @@ Sample outputs
 
 ![Output_1](https://github.com/user-attachments/assets/f2158e46-19e1-45e7-bca1-3d4312a493ac)
 
-![Output_2](https://github.com/user-attachments/assets/44605441-4c6e-4543-8aa8-acdb3d7d1317)
 
