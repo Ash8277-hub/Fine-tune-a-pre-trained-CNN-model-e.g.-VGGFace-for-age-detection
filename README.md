@@ -34,6 +34,10 @@ Fine tune a pre-trained CNN Model (eg. VGGFace) for age detection on the IMDB-Wi
 
 Sample outputs 
 
-![Output_1](https://github.com/user-attachments/assets/f2158e46-19e1-45e7-bca1-3d4312a493ac)
+![image](https://github.com/user-attachments/assets/7ff01826-d3f2-4f34-bfa6-7d42c7b0bbcb)
+
+![image](https://github.com/user-attachments/assets/b0aab113-890b-4b0a-b008-ad07c697d4fa)
+
+
 
 
